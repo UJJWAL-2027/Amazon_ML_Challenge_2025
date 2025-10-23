@@ -1,6 +1,10 @@
-# Amazon ML Challenge 2025: Product Price Prediction
+#  PriceIQ– A Multimodal AI Solution for Product Price Prediction
+
+This is basically the soultion of the hackathon - Amazon ML Challenge 2025
 
 This repository contains the solution for the Amazon ML Challenge 2025, focusing on predicting product prices using a multi-modal hybrid ensemble model.
+
+
 **Note on Group Project & Contributions**
  This was a collaborative group project where all team members contributed to and reviewed the complete codebase. My specific areas of focus were **Image Processing and Feature Engineering** (extracting visual features) and the implementation and tuning of the **LightGBM model**.
 
